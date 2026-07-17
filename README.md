@@ -9,4 +9,4 @@
 
 ## 🏆 Hackathons & Experience
 - **JISTECH 2026** | Frontend & Backend Engineer
-- **Crazy Builds** | Technical Team Participant
+- **Crazy Builds** | Frontend & Backend Engineer
