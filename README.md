@@ -1,16 +1,12 @@
-## Hi there 👋
+# Hi, I'm Aryan Yadav 👋
+**Aspiring AI / ML Engineer & Full-Stack Developer**  
+🎓 B.Tech in Computer Science and Technology @ JIS College of Engineering
 
-<!--
-**uiaryanyadav1109-dev/uiaryanyadav1109-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Tech Stack & Tools
+- **Languages:** Python, C, C++, JavaScript
+- **Web & Backend:** HTML5, CSS3, JavaScript, React.js, MySQL
+- **Tools:** Git, GitHub, VS Code
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🏆 Hackathons & Experience
+- **JISTECH 2026** | Frontend & Backend Engineer
+- **Crazy Builds** | Technical Team Participant
