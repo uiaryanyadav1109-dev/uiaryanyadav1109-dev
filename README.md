@@ -4,7 +4,7 @@
 
 ## 🛠️ Tech Stack & Tools
 - **Languages:** Python, C, C++, JavaScript
-- **Web & Backend:** HTML5, CSS3, JavaScript, React.js, MySQL
+- **Web & Backend:** HTML5, CSS3, JavaScript
 - **Tools:** Git, GitHub, VS Code
 
 ## 🏆 Hackathons & Experience
