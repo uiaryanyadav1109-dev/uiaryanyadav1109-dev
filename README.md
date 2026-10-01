@@ -187,14 +187,25 @@ Converts complex documents into easy-to-understand summaries, action items, impo
 <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=uiaryanyadav1109-dev&show_icons=true&theme=tokyonight&hide_border=true"
-    height="180"
+    height="190"
+    width="49%"
     alt="Aryan's GitHub Stats"
   />
-
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=uiaryanyadav1109-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-    height="180"
-    alt="Aryan's Top Languages"
+    height="190"
+    width="49%"
+    alt="Aryan's Most Used Languages"
+  />
+</p>
+
+### 📈 Coding Activity
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=uiaryanyadav1109-dev&bg_color=0D1117&color=38BDF8&line=7C3AED&point=FFFFFF&area=true&hide_border=true"
+    width="96%"
+    alt="Aryan's GitHub Activity Graph"
   />
 </p>
 
