@@ -2,7 +2,7 @@
 
 <p align="center">
   <img
-    src="./assets/Neon Developer Profile_ Aryan Yadav.png"
+    src="./assests/Neon Developer Profile_ Aryan Yadav.png"
     width="100%"
     alt="Aryan Yadav - AI/ML & Full-Stack Developer"
   />
