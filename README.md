@@ -132,8 +132,7 @@ Cybersecurity      ████████░░░░░░░░░░
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/aryan-yadav-7598363a/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aryan-yadav-7598363a/)
   </a>
 
   <a href="https://github.com/uiaryanyadav1109-dev">
