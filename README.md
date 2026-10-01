@@ -95,27 +95,28 @@
 
 ### 🤖 AI / ML
 
-<p align="center">
-  <img
-    src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv"
-    alt="AI and Machine Learning Technologies"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://img.shields.io/badge/Machine%20Learning-0F172A?style=for-the-badge&logo=python&logoColor=38BDF8"
-    alt="Machine Learning"
-  />
-  <img
-    src="https://img.shields.io/badge/Generative%20AI-0F172A?style=for-the-badge&logo=openai&logoColor=A78BFA"
-    alt="Generative AI"
-  />
-  <img
-    src="https://img.shields.io/badge/AI%20APIs-0F172A?style=for-the-badge&logo=googlecloud&logoColor=38BDF8"
-    alt="AI APIs"
-  />
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img
+        src="https://img.shields.io/badge/Machine%20Learning-0F172A?style=for-the-badge&logo=python&logoColor=38BDF8"
+        alt="Machine Learning"
+      />
+    </td>
+    <td align="center">
+      <img
+        src="https://img.shields.io/badge/Generative%20AI-0F172A?style=for-the-badge&logo=openai&logoColor=A78BFA"
+        alt="Generative AI"
+      />
+    </td>
+    <td align="center">
+      <img
+        src="https://img.shields.io/badge/AI%20APIs-0F172A?style=for-the-badge&logo=googlecloud&logoColor=38BDF8"
+        alt="AI APIs"
+      />
+    </td>
+  </tr>
+</table>
 
 ---
 
