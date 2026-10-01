@@ -2,6 +2,14 @@
 
 <p align="center">
   <img
+    src="https://capsule-render.vercel.app/api?type=venom&height=220&text=Aryan%20Yadav&fontSize=48&fontColor=FFFFFF&color=0:0F172A,50:312E81,100:7C3AED&stroke=38BDF8&strokeWidth=2&animation=fadeIn&fontAlignY=55"
+    width="100%"
+    alt="Aryan Yadav Header"
+  />
+</p>
+
+<p align="center">
+  <img
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&height=55&lines=AI%2FML+Enthusiast;Full-Stack+Developer;Hackathon+Builder;Problem+Solver;Generative+AI+Explorer"
     alt="Typing Introduction"
   />
@@ -13,7 +21,7 @@
 
 <p align="center">
   <img
-    src="https://img.shields.io/github/followers/uiaryanyadav1109-dev?label=Followers&style=for-the-badge&logo=github&labelColor=0F172A&color=2563EB"
+    src="https://img.shields.io/github/followers/uiaryanyadav1109-dev?label=Followers&style=for-the-badge&logo=github&labelColor=0F172A&color=7C3AED"
     alt="GitHub Followers"
   />
   <img
@@ -74,7 +82,7 @@
     alt="Machine Learning"
   />
   <img
-    src="https://img.shields.io/badge/Generative%20AI-0F172A?style=for-the-badge&logo=openai&logoColor=38BDF8"
+    src="https://img.shields.io/badge/Generative%20AI-0F172A?style=for-the-badge&logo=openai&logoColor=A78BFA"
     alt="Generative AI"
   />
   <img
@@ -93,7 +101,7 @@
     alt="Artificial Intelligence"
   />
   <img
-    src="https://img.shields.io/badge/Machine%20Learning-Learning-2563EB?style=for-the-badge&labelColor=0F172A"
+    src="https://img.shields.io/badge/Machine%20Learning-Learning-7C3AED?style=for-the-badge&labelColor=0F172A"
     alt="Machine Learning"
   />
   <img
@@ -104,15 +112,15 @@
 
 <p align="center">
   <img
-    src="https://img.shields.io/badge/Generative%20AI-Building-7C3AED?style=for-the-badge&labelColor=0F172A"
+    src="https://img.shields.io/badge/Generative%20AI-Building-8B5CF6?style=for-the-badge&labelColor=0F172A"
     alt="Generative AI"
   />
   <img
-    src="https://img.shields.io/badge/Full--Stack-Developing-22C55E?style=for-the-badge&labelColor=0F172A"
+    src="https://img.shields.io/badge/Full--Stack-Developing-22D3EE?style=for-the-badge&labelColor=0F172A"
     alt="Full Stack Development"
   />
   <img
-    src="https://img.shields.io/badge/Cybersecurity-Exploring-F59E0B?style=for-the-badge&labelColor=0F172A"
+    src="https://img.shields.io/badge/Cybersecurity-Exploring-6366F1?style=for-the-badge&labelColor=0F172A"
     alt="Cybersecurity"
   />
 </p>
@@ -187,18 +195,6 @@ Converts complex documents into easy-to-understand summaries, action items, impo
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=uiaryanyadav1109-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
     height="180"
     alt="Aryan's Top Languages"
-  />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=uiaryanyadav1109-dev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1"
-    width="95%"
-    alt="GitHub Trophies"
   />
 </p>
 
@@ -282,5 +278,13 @@ Converts complex documents into easy-to-understand summaries, action items, impo
 ---
 
 <p align="center">
-  <b>Building. Learning. Evolving. 🚀</b>
+  <b>Building. Learning. Evolving.</b>
+</p>
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:7C3AED,50:312E81,100:0F172A"
+    width="100%"
+    alt="Footer"
+  />
 </p>
