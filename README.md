@@ -180,15 +180,15 @@ Transforms complex documents into easier-to-understand summaries, action items, 
 
 | Event | Role |
 |---|---|
-| 🏆 **Smart India Hackathon (SIH)** | Hackathon Participant |
-| 💡 **MSME Idea Hackathon 6.0** | Hackathon Participant |
+| 🏆 **Smart India Hackathon (SIH)** | Frontend & AI Backend Engineer |
+| 💡 **MSME Idea Hackathon 6.0** | Full Stack Engineer |
 | ⚡ **JISTECH 2026** | Frontend & Backend Engineer |
 | 🔥 **CRAZY BUILDS** | Frontend & Backend Engineer |
-| 🚀 **HackNex 2.0** | Hackathon Participant |
+| 🚀 **HackNex 2.0** |AI & Backend Engineer |
 
 ### 📌 Hackathon Milestone
 
-**Shortlisted among 110+ teams with a score of 92/100.**
+**Shortlisted among 110+ teams in SIH with a score of 92/100.**
 
 ---
 
