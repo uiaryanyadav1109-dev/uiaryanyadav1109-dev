@@ -127,12 +127,10 @@ Cybersecurity      ████████░░░░░░░░░░
   <img src="https://leetcard.jacoblin.cool/aryanyadav_11?theme=dark&font=Baloo&ext=heatmap" />
 </p>
 
-<p align="center">
-  <a href="https://leetcode.com/u/aryanyadav_11/">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode" />
-  </a>
 </p>
+
 ---
+
 ## 🐍 Contribution Snake
 
 <p align="center">
