@@ -162,7 +162,6 @@ Converts complex documents into easy-to-understand summaries, action items, impo
 | 🔥 **MSME Idea Hackathon 6.0** | Hackathon Participant |
 | ⚡ **JISTECH 2026** | Frontend & Backend Engineer |
 | 🚀 **CRAZY BUILDS** | Frontend & Backend Engineer |
-| 💻 **HackNex 2.0** | Hackathon Participant |
 | 🧩 **HEXAFALLS 2.0** | Hackathon Participant |
 
 ---
@@ -200,25 +199,26 @@ Converts complex documents into easy-to-understand summaries, action items, impo
 </p>
 
 ---
-
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=uiaryanyadav1109-dev&show_icons=true&theme=tokyonight&hide_border=true"
-    height="190"
-    width="49%"
-    alt="Aryan's GitHub Stats"
-  />
-
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=uiaryanyadav1109-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-    height="190"
-    width="49%"
-    alt="Aryan's Most Used Languages"
-  />
-</p>
-
+<table align="center">
+  <tr>
+    <td width="50%" align="center">
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=uiaryanyadav1109-dev&show_icons=true&theme=tokyonight&hide_border=true"
+        width="100%"
+        alt="Aryan's GitHub Stats"
+      />
+    </td>
+    <td width="50%" align="center">
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=uiaryanyadav1109-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+        width="100%"
+        alt="Aryan's Most Used Languages"
+      />
+    </td>
+  </tr>
+</table>
 ---
 
 ## 📈 Coding Activity
