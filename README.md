@@ -182,7 +182,7 @@ Transforms complex documents into easier-to-understand summaries, action items, 
 |---|---|
 | 🏆 **Smart India Hackathon (SIH)** | Frontend & AI Backend Engineer |
 | 💡 **MSME Idea Hackathon 6.0** | Full Stack Engineer |
-| ⚡ **JISTECH 2026** | Frontend & Backend Engineer |
+| ⚡ **JISTECH 2026** | Hardware Engineer |
 | 🔥 **CRAZY BUILDS** | Frontend & Backend Engineer |
 | 🚀 **HackNex 2.0** |AI & Backend Engineer |
 
