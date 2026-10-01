@@ -2,7 +2,7 @@
 
 <p align="center">
   <img
-    src="./assests/Neon Developer Profile_ Aryan Yadav.png"
+    src="./assets/Neon Developer Profile_ Aryan Yadav.png"
     width="100%"
     alt="Aryan Yadav - AI/ML & Full-Stack Developer"
   />
@@ -10,115 +10,127 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&height=55&lines=AI%2FML+Enthusiast;Full-Stack+Developer;Hackathon+Builder;Problem+Solver;Generative+AI+Explorer"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=750&height=55&lines=AI%2FML+Enthusiast;Full-Stack+Developer;Generative+AI+Explorer;Hackathon+Builder;Problem+Solver"
     alt="Typing Introduction"
   />
 </p>
 
 <p align="center">
-  <b>🤖 AI/ML Enthusiast • 💻 Full-Stack Developer • 🏆 Hackathon Builder</b>
-</p>
+  <a href="https://github.com/uiaryanyadav1109-dev">
+    <img
+      src="https://img.shields.io/github/followers/uiaryanyadav1109-dev?label=Followers&style=for-the-badge&logo=github&labelColor=0F172A&color=7C3AED"
+      alt="GitHub Followers"
+    />
+  </a>
 
-<p align="center">
-  <img
-    src="https://img.shields.io/github/followers/uiaryanyadav1109-dev?label=Followers&style=for-the-badge&logo=github&labelColor=0F172A&color=7C3AED"
-    alt="GitHub Followers"
-  />
-  <img
-    src="https://img.shields.io/github/stars/uiaryanyadav1109-dev?label=Profile%20Stars&style=for-the-badge&logo=github&labelColor=0F172A&color=38BDF8"
-    alt="GitHub Stars"
-  />
+  <a href="https://github.com/uiaryanyadav1109-dev">
+    <img
+      src="https://img.shields.io/github/stars/uiaryanyadav1109-dev?label=Profile%20Stars&style=for-the-badge&logo=github&labelColor=0F172A&color=38BDF8"
+      alt="GitHub Stars"
+    />
+  </a>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 **B.Tech in Computer Science & Technology** @ JIS College of Engineering
-- 🤖 Exploring **AI/ML, Generative AI & intelligent applications**
-- 💻 Building **Full-Stack Web Applications**
-- 🏆 Participating in **Hackathons & Tech Events**
-- 🧠 Strengthening my **DSA & problem-solving skills**
-- 🚀 Interested in building **real-world technology solutions**
-- 🔐 Exploring **Cybersecurity & AI-powered systems**
-- 🎌 Anime fan
+I'm a **B.Tech Computer Science & Technology student at JIS College of Engineering** with a strong interest in **Artificial Intelligence, Machine Learning, Generative AI, and Full-Stack Development**.
 
-<br>
+I enjoy turning ideas into working products, experimenting with emerging technologies, and building solutions for real-world problems.
 
-<p align="center">
-  <img
-    src="https://img.shields.io/badge/FOCUS-AI%20%2F%20ML-38BDF8?style=for-the-badge&labelColor=0F172A"
-    alt="AI ML Focus"
-  />
-  <img
-    src="https://img.shields.io/badge/BUILDING-FULL%20STACK-2563EB?style=for-the-badge&labelColor=0F172A"
-    alt="Full Stack"
-  />
-  <img
-    src="https://img.shields.io/badge/LEARNING-DSA-A78BFA?style=for-the-badge&labelColor=0F172A"
-    alt="DSA Learning"
-  />
-  <img
-    src="https://img.shields.io/badge/EXPLORING-GENERATIVE%20AI-7C3AED?style=for-the-badge&labelColor=0F172A"
-    alt="Generative AI"
-  />
-</p>
+- 🤖 Exploring **AI/ML & Generative AI**
+- 💻 Building **full-stack web applications**
+- 🧠 Strengthening **DSA & problem-solving**
+- 🚀 Participating in **hackathons and technical events**
+- 🔐 Exploring **cybersecurity & AI security**
+- 🌍 Interested in **real-world technology solutions**
+- 🎌 Anime enthusiast
 
 ---
 
-## 🛠️ Tech Stack
+## 🧠 What I Build
 
-### 💻 Languages
+<table align="center">
+  <tr>
+    <td width="50%" align="center">
+
+### 🤖 AI-Powered Applications
+
+Building intelligent applications using
+AI/ML, Generative AI and AI APIs.
+
+</td>
+
+<td width="50%" align="center">
+
+### 💻 Full-Stack Products
+
+Creating modern web applications
+from frontend to backend.
+
+</td>
+  </tr>
+
+  <tr>
+    <td width="50%" align="center">
+
+### 🔐 Security Solutions
+
+Exploring AI-driven approaches to
+fraud detection and cybersecurity.
+
+</td>
+
+<td width="50%" align="center">
+
+### 🚀 Hackathon Projects
+
+Rapidly designing and developing
+solutions for real-world problems.
+
+</td>
+  </tr>
+</table>
+
+---
+
+## 🛠️ Technical Skills
+
+### 💻 Programming Languages
 
 <p>
-  <img
-    src="https://skillicons.dev/icons?i=python,c,cpp,js"
-    alt="Programming Languages"
-  />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,js" alt="Programming Languages" />
 </p>
 
-### 🌐 Web & Backend
+### 🌐 Web Development
 
 <p>
-  <img
-    src="https://skillicons.dev/icons?i=html,css,react,nodejs,nextjs,tailwind"
-    alt="Web Technologies"
-  />
+  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,nextjs,tailwind" alt="Web Development" />
 </p>
 
-### 🗄️ Database & Tools
+### 🗄️ Database & Development Tools
 
 <p>
-  <img
-    src="https://skillicons.dev/icons?i=mysql,postgres,git,github,vscode"
-    alt="Database and Development Tools"
-  />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,git,github,vscode" alt="Database and Tools" />
 </p>
 
 ### 🤖 AI / ML
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <img
-        src="https://img.shields.io/badge/Machine%20Learning-0F172A?style=for-the-badge&logo=python&logoColor=38BDF8"
-        alt="Machine Learning"
-      />
-    </td>
-    <td align="center">
-      <img
-        src="https://img.shields.io/badge/Generative%20AI-0F172A?style=for-the-badge&logo=openai&logoColor=A78BFA"
-        alt="Generative AI"
-      />
-    </td>
-    <td align="center">
-      <img
-        src="https://img.shields.io/badge/AI%20APIs-0F172A?style=for-the-badge&logo=googlecloud&logoColor=38BDF8"
-        alt="AI APIs"
-      />
-    </td>
-  </tr>
-</table>
+<p>
+  <img
+    src="https://img.shields.io/badge/Machine%20Learning-0F172A?style=for-the-badge&logo=python&logoColor=38BDF8"
+    alt="Machine Learning"
+  />
+  <img
+    src="https://img.shields.io/badge/Generative%20AI-0F172A?style=for-the-badge&logo=openai&logoColor=A78BFA"
+    alt="Generative AI"
+  />
+  <img
+    src="https://img.shields.io/badge/AI%20APIs-0F172A?style=for-the-badge&logo=googlecloud&logoColor=38BDF8"
+    alt="AI APIs"
+  />
+</p>
 
 ---
 
@@ -128,9 +140,9 @@
 
 **AI-powered Student Success & Career Platform**
 
-An AI-powered platform designed to bring academic assistance, career development, skill building, productivity, and student opportunities into one ecosystem.
+A unified platform designed to support students across academics, productivity, skill development, career preparation, internships, placements and opportunities.
 
-**Focus:** AI • Education • Career Development • Full-Stack
+**Focus:** `AI` `EdTech` `Career Development` `Full-Stack`
 
 ---
 
@@ -138,9 +150,9 @@ An AI-powered platform designed to bring academic assistance, career development
 
 **AI-powered protection against voice-cloning fraud in banking calls.**
 
-A voice security platform designed to detect and help prevent banking fraud caused by AI-generated voice cloning and impersonation.
+A security-focused system designed to address fraud risks associated with AI-generated voice cloning and impersonation.
 
-**Focus:** AI • Voice Security • Fraud Detection • Banking
+**Focus:** `AI` `Voice Security` `Fraud Detection` `Banking`
 
 ---
 
@@ -148,9 +160,9 @@ A voice security platform designed to detect and help prevent banking fraud caus
 
 **AI-powered Land Acquisition & Management System**
 
-AI-driven tools for document processing, land valuation, grievance triage, cadastral geometry verification, and land acquisition reporting.
+An AI-driven engine designed for land acquisition workflows including document processing, land valuation, grievance triage, cadastral geometry verification and reporting.
 
-**Focus:** AI • Government Tech • Document AI • GIS
+**Focus:** `AI` `Document AI` `GIS` `Government Tech`
 
 ---
 
@@ -158,9 +170,9 @@ AI-driven tools for document processing, land valuation, grievance triage, cadas
 
 **AI-powered Document Simplification Platform**
 
-Converts complex documents into easy-to-understand summaries, action items, important information, and key dates.
+Transforms complex documents into easier-to-understand summaries, action items, important information and key dates.
 
-**Focus:** Generative AI • Document AI • Accessibility
+**Focus:** `Generative AI` `Document AI` `Accessibility`
 
 ---
 
@@ -169,11 +181,15 @@ Converts complex documents into easy-to-understand summaries, action items, impo
 | Event | Role |
 |---|---|
 | 🏆 **Smart India Hackathon (SIH)** | Hackathon Participant |
-| 🔥 **MSME Idea Hackathon 6.0** | Hackathon Participant |
+| 💡 **MSME Idea Hackathon 6.0** | Hackathon Participant |
 | ⚡ **JISTECH 2026** | Frontend & Backend Engineer |
-| 🚀 **CRAZY BUILDS** | Frontend & Backend Engineer |
-| 💻 **HackNex 2.0** | Hackathon Participant |
+| 🔥 **CRAZY BUILDS** | Frontend & Backend Engineer |
+| 🚀 **HackNex 2.0** | Hackathon Participant |
 | 🧩 **HEXAFALLS 2.0** | Hackathon Participant |
+
+### 📌 Hackathon Milestone
+
+**Shortlisted among 110+ teams with a score of 92/100.**
 
 ---
 
@@ -211,7 +227,7 @@ Converts complex documents into easy-to-understand summaries, action items, impo
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <table align="center">
   <tr>
@@ -232,20 +248,6 @@ Converts complex documents into easy-to-understand summaries, action items, impo
     </td>
   </tr>
 </table>
-
----
-
-## 📈 Coding Activity
-
-<p align="center">
-  <a href="https://github.com/uiaryanyadav1109-dev">
-    <img
-      src="https://ghchart.rshah.org/2f81f7/uiaryanyadav1109-dev"
-      width="96%"
-      alt="Aryan's GitHub Contribution Graph"
-    />
-  </a>
-</p>
 
 ---
 
@@ -270,6 +272,19 @@ Converts complex documents into easy-to-understand summaries, action items, impo
     alt="Aryan's LeetCode Stats"
   />
 </p>
+
+---
+
+## 🤝 Open to Collaborate
+
+I'm interested in collaborating on:
+
+- 🤖 AI / ML projects
+- 🧠 Generative AI applications
+- 💻 Full-Stack applications
+- 🔐 Cybersecurity projects
+- 🚀 Hackathon ideas
+- 🌍 Open-source projects
 
 ---
 
@@ -312,15 +327,7 @@ Converts complex documents into easy-to-understand summaries, action items, impo
   <i>Every bug is another step in the training arc.</i>
 </p>
 
-<p align="center">
-  🎌 <b>Keep building. Keep learning. Keep leveling up.</b> 🚀
-</p>
-
 ---
-
-<p align="center">
-  <b>Building. Learning. Evolving.</b>
-</p>
 
 <p align="center">
   <img
