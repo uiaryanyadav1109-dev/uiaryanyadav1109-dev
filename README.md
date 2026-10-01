@@ -2,7 +2,7 @@
 
 <p align="center">
   <img
-    src="./assets/aryan-github-banner.png"
+    src="./assests/aryan-github-banner.png"
     width="100%"
     alt="Aryan Yadav - AI/ML & Full-Stack Developer"
   />
