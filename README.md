@@ -226,9 +226,9 @@ Converts complex documents into easy-to-understand summaries, action items, impo
 <p align="center">
   <a href="https://github.com/uiaryanyadav1109-dev">
     <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=uiaryanyadav1109-dev&theme=tokyo-night&hide_border=true&area=true&custom_title=Coding%20Activity"
+      src="https://ghchart.rshah.org/2f81f7/uiaryanyadav1109-dev"
+      alt="Aryan's GitHub Contribution Graph"
       width="96%"
-      alt="Aryan's GitHub Activity Graph"
     />
   </a>
 </p>
