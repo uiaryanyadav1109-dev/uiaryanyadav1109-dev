@@ -95,7 +95,14 @@
 
 ### 🤖 AI / ML
 
-<p>
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv"
+    alt="AI and Machine Learning Technologies"
+  />
+</p>
+
+<p align="center">
   <img
     src="https://img.shields.io/badge/Machine%20Learning-0F172A?style=for-the-badge&logo=python&logoColor=38BDF8"
     alt="Machine Learning"
@@ -219,6 +226,7 @@ Converts complex documents into easy-to-understand summaries, action items, impo
     </td>
   </tr>
 </table>
+
 ---
 
 ## 📈 Coding Activity
