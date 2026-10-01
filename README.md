@@ -93,40 +93,6 @@
 
 ---
 
-## 🎯 Currently Learning
-
-<p align="center">
-  <img
-    src="https://img.shields.io/badge/Artificial%20Intelligence-Exploring-38BDF8?style=for-the-badge&labelColor=0F172A"
-    alt="Artificial Intelligence"
-  />
-  <img
-    src="https://img.shields.io/badge/Machine%20Learning-Learning-7C3AED?style=for-the-badge&labelColor=0F172A"
-    alt="Machine Learning"
-  />
-  <img
-    src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-Grinding-A78BFA?style=for-the-badge&labelColor=0F172A"
-    alt="Data Structures and Algorithms"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://img.shields.io/badge/Generative%20AI-Building-8B5CF6?style=for-the-badge&labelColor=0F172A"
-    alt="Generative AI"
-  />
-  <img
-    src="https://img.shields.io/badge/Full--Stack-Developing-22D3EE?style=for-the-badge&labelColor=0F172A"
-    alt="Full Stack Development"
-  />
-  <img
-    src="https://img.shields.io/badge/Cybersecurity-Exploring-6366F1?style=for-the-badge&labelColor=0F172A"
-    alt="Cybersecurity"
-  />
-</p>
-
----
-
 ## 🚀 Featured Projects
 
 ### 🎓 StudentOS
@@ -182,6 +148,40 @@ Converts complex documents into easy-to-understand summaries, action items, impo
 
 ---
 
+## 🎯 Currently Learning
+
+<p align="center">
+  <img
+    src="https://img.shields.io/badge/Artificial%20Intelligence-Exploring-38BDF8?style=for-the-badge&labelColor=0F172A"
+    alt="Artificial Intelligence"
+  />
+  <img
+    src="https://img.shields.io/badge/Machine%20Learning-Learning-7C3AED?style=for-the-badge&labelColor=0F172A"
+    alt="Machine Learning"
+  />
+  <img
+    src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-Grinding-A78BFA?style=for-the-badge&labelColor=0F172A"
+    alt="Data Structures and Algorithms"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://img.shields.io/badge/Generative%20AI-Building-8B5CF6?style=for-the-badge&labelColor=0F172A"
+    alt="Generative AI"
+  />
+  <img
+    src="https://img.shields.io/badge/Full--Stack-Developing-22D3EE?style=for-the-badge&labelColor=0F172A"
+    alt="Full Stack Development"
+  />
+  <img
+    src="https://img.shields.io/badge/Cybersecurity-Exploring-6366F1?style=for-the-badge&labelColor=0F172A"
+    alt="Cybersecurity"
+  />
+</p>
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -191,21 +191,12 @@ Converts complex documents into easy-to-understand summaries, action items, impo
     width="49%"
     alt="Aryan's GitHub Stats"
   />
+
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=uiaryanyadav1109-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
     height="190"
     width="49%"
     alt="Aryan's Most Used Languages"
-  />
-</p>
-
-### 📈 Coding Activity
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=uiaryanyadav1109-dev&bg_color=0D1117&color=38BDF8&line=7C3AED&point=FFFFFF&area=true&hide_border=true"
-    width="96%"
-    alt="Aryan's GitHub Activity Graph"
   />
 </p>
 
@@ -216,6 +207,7 @@ Converts complex documents into easy-to-understand summaries, action items, impo
 <p align="center">
   <img
     src="https://streak-stats.demolab.com/?user=uiaryanyadav1109-dev&theme=tokyonight&hide_border=true"
+    width="70%"
     alt="GitHub Contribution Streak"
   />
 </p>
