@@ -43,6 +43,27 @@
 - 🔐 Exploring **Cybersecurity & AI-powered systems**
 - 🎌 Anime fan
 
+<br>
+
+<p align="center">
+  <img
+    src="https://img.shields.io/badge/FOCUS-AI%20%2F%20ML-38BDF8?style=for-the-badge&labelColor=0F172A"
+    alt="AI ML Focus"
+  />
+  <img
+    src="https://img.shields.io/badge/BUILDING-FULL%20STACK-2563EB?style=for-the-badge&labelColor=0F172A"
+    alt="Full Stack"
+  />
+  <img
+    src="https://img.shields.io/badge/LEARNING-DSA-A78BFA?style=for-the-badge&labelColor=0F172A"
+    alt="DSA Learning"
+  />
+  <img
+    src="https://img.shields.io/badge/EXPLORING-GENERATIVE%20AI-7C3AED?style=for-the-badge&labelColor=0F172A"
+    alt="Generative AI"
+  />
+</p>
+
 ---
 
 ## 🛠️ Tech Stack
@@ -99,7 +120,7 @@
 
 **AI-powered Student Success & Career Platform**
 
-An AI-powered platform bringing academic assistance, career development, skill building, productivity, and student opportunities into one ecosystem.
+An AI-powered platform designed to bring academic assistance, career development, skill building, productivity, and student opportunities into one ecosystem.
 
 **Focus:** AI • Education • Career Development • Full-Stack
 
@@ -198,6 +219,20 @@ Converts complex documents into easy-to-understand summaries, action items, impo
     width="49%"
     alt="Aryan's Most Used Languages"
   />
+</p>
+
+---
+
+## 📈 Coding Activity
+
+<p align="center">
+  <a href="https://github.com/uiaryanyadav1109-dev">
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=uiaryanyadav1109-dev&theme=tokyo-night&hide_border=true&area=true&custom_title=Coding%20Activity"
+      width="96%"
+      alt="Aryan's GitHub Activity Graph"
+    />
+  </a>
 </p>
 
 ---
