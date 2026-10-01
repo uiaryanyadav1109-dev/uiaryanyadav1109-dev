@@ -2,14 +2,6 @@
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:2563EB&height=220&section=header&text=Aryan%20Yadav&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35"
-    width="100%"
-    alt="Aryan Yadav Header"
-  />
-</p>
-
-<p align="center">
-  <img
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&height=55&lines=AI%2FML+Enthusiast;Full-Stack+Developer;Hackathon+Builder;Problem+Solver;Generative+AI+Explorer"
     alt="Typing Introduction"
   />
@@ -88,6 +80,40 @@
   <img
     src="https://img.shields.io/badge/AI%20APIs-0F172A?style=for-the-badge&logo=googlecloud&logoColor=38BDF8"
     alt="AI APIs"
+  />
+</p>
+
+---
+
+## 🎯 Currently Learning
+
+<p align="center">
+  <img
+    src="https://img.shields.io/badge/Artificial%20Intelligence-Exploring-38BDF8?style=for-the-badge&labelColor=0F172A"
+    alt="Artificial Intelligence"
+  />
+  <img
+    src="https://img.shields.io/badge/Machine%20Learning-Learning-2563EB?style=for-the-badge&labelColor=0F172A"
+    alt="Machine Learning"
+  />
+  <img
+    src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-Grinding-A78BFA?style=for-the-badge&labelColor=0F172A"
+    alt="Data Structures and Algorithms"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://img.shields.io/badge/Generative%20AI-Building-7C3AED?style=for-the-badge&labelColor=0F172A"
+    alt="Generative AI"
+  />
+  <img
+    src="https://img.shields.io/badge/Full--Stack-Developing-22C55E?style=for-the-badge&labelColor=0F172A"
+    alt="Full Stack Development"
+  />
+  <img
+    src="https://img.shields.io/badge/Cybersecurity-Exploring-F59E0B?style=for-the-badge&labelColor=0F172A"
+    alt="Cybersecurity"
   />
 </p>
 
@@ -257,12 +283,4 @@ Converts complex documents into easy-to-understand summaries, action items, impo
 
 <p align="center">
   <b>Building. Learning. Evolving. 🚀</b>
-</p>
-
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:1E3A8A,100:0F172A&height=140&section=footer"
-    width="100%"
-    alt="Footer"
-  />
 </p>
