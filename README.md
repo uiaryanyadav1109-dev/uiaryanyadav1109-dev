@@ -120,8 +120,6 @@ Cybersecurity      ████████░░░░░░░░░░
 
 ## 📫 Connect With Me
 
-## 📫 Connect With Me
-
 <p align="center">
   <a href="https://www.linkedin.com/in/aryan-yadav-7598363a/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
@@ -133,6 +131,7 @@ Cybersecurity      ████████░░░░░░░░░░
     <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode" />
   </a>
 </p>
+
 ---
 
 <p align="center">
