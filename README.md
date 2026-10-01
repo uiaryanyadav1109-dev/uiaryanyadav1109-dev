@@ -117,18 +117,18 @@ solutions for real-world problems.
 
 ### 🤖 AI / ML
 
-<p>
+<p align="center">
   <img
-    src="https://img.shields.io/badge/Machine%20Learning-0F172A?style=for-the-badge&logo=python&logoColor=38BDF8"
+    src="https://img.shields.io/badge/Machine%20Learning-Python%20%7C%20Scikit--Learn-111827?style=for-the-badge&logo=scikitlearn&logoColor=38BDF8"
     alt="Machine Learning"
   />
   <img
-    src="https://img.shields.io/badge/Generative%20AI-0F172A?style=for-the-badge&logo=openai&logoColor=A78BFA"
+    src="https://img.shields.io/badge/Generative%20AI-LLMs%20%7C%20RAG-111827?style=for-the-badge&logo=openai&logoColor=A78BFA"
     alt="Generative AI"
   />
   <img
-    src="https://img.shields.io/badge/AI%20APIs-0F172A?style=for-the-badge&logo=googlecloud&logoColor=38BDF8"
-    alt="AI APIs"
+    src="https://img.shields.io/badge/AI%20Integration-OpenAI%20%7C%20Gemini-111827?style=for-the-badge&logo=googlecloud&logoColor=38BDF8"
+    alt="AI Integration"
   />
 </p>
 
