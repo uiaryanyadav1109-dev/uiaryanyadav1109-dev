@@ -1,4 +1,7 @@
 # Hi, I'm Aryan Yadav 👋
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/279498389?v=4" width="100%" />
+</p>
 
 ### 👨‍💻 AI/ML Enthusiast | Full-Stack Developer | Hackathon Builder
 
@@ -8,7 +11,7 @@ I enjoy turning ideas into real-world projects, exploring **AI/ML**, building we
 
 ## 🛠️ Tech Stack & Tools
 
-- **Languages:** Python, C, C++, JavaScript
+- **Languages:** Python, C, C++
 - **Frontend:** HTML5, CSS3, JavaScript, React
 - **Backend:** Node.js
 - **Database:** MySQL, PostgreSQL
@@ -45,6 +48,5 @@ I enjoy turning ideas into real-world projects, exploring **AI/ML**, building we
 ## 📫 Connect With Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/aryan-yadav-7598363a/)
----
 
 > **"Building. Learning. Evolving. 🚀"**
