@@ -57,10 +57,12 @@
 ### 🛡️ VoiceShield
 **AI-powered protection against voice-cloning fraud in banking calls.**
 
+>AI-powered voice security platform designed to detect and prevent **banking fraud caused by AI-generated voice cloning and impersonation during phone calls**.
+
 ### 🤖 NLAMS AI Engine
 **AI-powered Land Acquisition & Management System**
 
-> AI-driven tools for document processing, valuation, grievance triage, geometry verification, and reporting.
+> AI-driven tools for document processing, valuation, grievance triage, geometry verification, and reporting of lands.
 
 ### 📄 Saral
 **AI-powered Document Simplification Platform**
@@ -72,9 +74,9 @@
 ## 🏆 Hackathons & Experience
 
 - 🏆 **Smart India Hackathon (SIH)** — Hackathon Participant
+- 🔥 **Ministry of Micro, Small and Medium Enterprises(MSMEs)** — Hackathon Participant
 - ⚡ **JISTECH 2026** — Frontend & Backend Engineer
 - 🚀 **CRAZY BUILDS** — Frontend & Backend Engineer
-- 🔥 **HEXAFALLS 2.0** — Hackathon Participant
 - 💻 **HackNex 2.0** — Hackathon Participant
 
 ---
@@ -118,6 +120,8 @@ Cybersecurity      ████████░░░░░░░░░░
 
 ## 📫 Connect With Me
 
+## 📫 Connect With Me
+
 <p align="center">
   <a href="https://www.linkedin.com/in/aryan-yadav-7598363a/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
@@ -125,8 +129,10 @@ Cybersecurity      ████████░░░░░░░░░░
   <a href="https://github.com/uiaryanyadav1109-dev">
     <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
   </a>
+  <a href="https://leetcode.com/u/aryanyadav_11/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode" />
+  </a>
 </p>
-
 ---
 
 <p align="center">
