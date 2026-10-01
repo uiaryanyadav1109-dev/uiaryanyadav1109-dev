@@ -226,29 +226,28 @@ Transforms complex documents into easier-to-understand summaries, action items, 
 </p>
 
 ---
+## 📊 Developer Activity
 
-## 📊 GitHub Analytics
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=uiaryanyadav1109-dev&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+    height="180"
+    alt="GitHub Statistics"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=uiaryanyadav1109-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    height="180"
+    alt="Most Used Languages"
+  />
+</p>
 
-<table align="center">
-  <tr>
-    <td width="50%" align="center">
-      <img
-        src="https://github-readme-stats.vercel.app/api?username=uiaryanyadav1109-dev&show_icons=true&theme=tokyonight&hide_border=true"
-        width="100%"
-        alt="Aryan's GitHub Stats"
-      />
-    </td>
-
-    <td width="50%" align="center">
-      <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=uiaryanyadav1109-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-        width="100%"
-        alt="Aryan's Most Used Languages"
-      />
-    </td>
-  </tr>
-</table>
-
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=uiaryanyadav1109-dev&theme=tokyonight&hide_border=true"
+    height="180"
+    alt="GitHub Contribution Streak"
+  />
+</p>
 ---
 
 ## 🔥 GitHub Streak
