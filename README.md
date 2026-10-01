@@ -1,5 +1,3 @@
-# Hi, I'm Aryan Yadav 👋
-
 <p align="center">
   <img
     src="https://capsule-render.vercel.app/api?type=venom&height=220&text=Aryan%20Yadav&fontSize=48&fontColor=FFFFFF&color=0:0F172A,50:312E81,100:7C3AED&stroke=38BDF8&strokeWidth=2&animation=fadeIn&fontAlignY=55"
@@ -257,15 +255,6 @@ Converts complex documents into easy-to-understand summaries, action items, impo
     width="80%"
     alt="Aryan's LeetCode Stats"
   />
-</p>
-
-<p align="center">
-  <a href="https://leetcode.com/u/aryanyadav_11/">
-    <img
-      src="https://img.shields.io/badge/LeetCode-View%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"
-      alt="LeetCode Profile"
-    />
-  </a>
 </p>
 
 ---
