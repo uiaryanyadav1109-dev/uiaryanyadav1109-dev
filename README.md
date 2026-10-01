@@ -1,8 +1,10 @@
+# Hi, I'm Aryan Yadav 👋
+
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=venom&height=220&text=Aryan%20Yadav&fontSize=48&fontColor=FFFFFF&color=0:0F172A,50:312E81,100:7C3AED&stroke=38BDF8&strokeWidth=2&animation=fadeIn&fontAlignY=55"
+    src="./assets/aryan-github-banner.png"
     width="100%"
-    alt="Aryan Yadav Header"
+    alt="Aryan Yadav - AI/ML & Full-Stack Developer"
   />
 </p>
 
@@ -170,6 +172,7 @@ Converts complex documents into easy-to-understand summaries, action items, impo
 | 🔥 **MSME Idea Hackathon 6.0** | Hackathon Participant |
 | ⚡ **JISTECH 2026** | Frontend & Backend Engineer |
 | 🚀 **CRAZY BUILDS** | Frontend & Backend Engineer |
+| 💻 **HackNex 2.0** | Hackathon Participant |
 | 🧩 **HEXAFALLS 2.0** | Hackathon Participant |
 
 ---
@@ -207,6 +210,7 @@ Converts complex documents into easy-to-understand summaries, action items, impo
 </p>
 
 ---
+
 ## 📊 GitHub Stats
 
 <table align="center">
@@ -218,6 +222,7 @@ Converts complex documents into easy-to-understand summaries, action items, impo
         alt="Aryan's GitHub Stats"
       />
     </td>
+
     <td width="50%" align="center">
       <img
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=uiaryanyadav1109-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
@@ -236,8 +241,8 @@ Converts complex documents into easy-to-understand summaries, action items, impo
   <a href="https://github.com/uiaryanyadav1109-dev">
     <img
       src="https://ghchart.rshah.org/2f81f7/uiaryanyadav1109-dev"
-      alt="Aryan's GitHub Contribution Graph"
       width="96%"
+      alt="Aryan's GitHub Contribution Graph"
     />
   </a>
 </p>
