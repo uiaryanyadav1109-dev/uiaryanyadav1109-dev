@@ -10,7 +10,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&height=55&lines=AI%2FML+Enthusiast;Full-Stack+Developer;Hackathon+Builder;Problem+Solver;Generative+AI+Explorer;Building.+Learning.+Evolving."
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&height=55&lines=AI%2FML+Enthusiast;Full-Stack+Developer;Hackathon+Builder;Problem+Solver;Generative+AI+Explorer"
     alt="Typing Introduction"
   />
 </p>
@@ -41,69 +41,7 @@
 - 🧠 Strengthening my **DSA & problem-solving skills**
 - 🚀 Interested in building **real-world technology solutions**
 - 🔐 Exploring **Cybersecurity & AI-powered systems**
-- 🎌 Anime fan who believes every developer has a **training arc**
-
-<br>
-
-<p align="center">
-  <img
-    src="https://img.shields.io/badge/FOCUS-AI%20%2F%20ML-38BDF8?style=for-the-badge&labelColor=0F172A"
-    alt="AI ML Focus"
-  />
-  <img
-    src="https://img.shields.io/badge/BUILDING-FULL%20STACK-2563EB?style=for-the-badge&labelColor=0F172A"
-    alt="Full Stack"
-  />
-  <img
-    src="https://img.shields.io/badge/LEARNING-DSA-A78BFA?style=for-the-badge&labelColor=0F172A"
-    alt="DSA Learning"
-  />
-  <img
-    src="https://img.shields.io/badge/EXPLORING-GENERATIVE%20AI-7C3AED?style=for-the-badge&labelColor=0F172A"
-    alt="Generative AI"
-  />
-</p>
-
----
-
-## ⚡ Current Arc
-
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&height=60&lines=Training+in+AI%2FML+%F0%9F%A4%96;Building+Full-Stack+Projects+%F0%9F%92%BB;Grinding+DSA+%F0%9F%A7%A0;Competing+in+Hackathons+%F0%9F%8F%86;Leveling+Up+Every+Day+%F0%9F%9A%80"
-    alt="Current Developer Arc"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://img.shields.io/badge/AI%20%2F%20ML-FOCUS-38BDF8?style=for-the-badge&labelColor=0F172A"
-    alt="AI ML Focus"
-  />
-  <img
-    src="https://img.shields.io/badge/FULL--STACK-BUILDING-2563EB?style=for-the-badge&labelColor=0F172A"
-    alt="Full Stack Building"
-  />
-  <img
-    src="https://img.shields.io/badge/DSA-GRINDING-A78BFA?style=for-the-badge&labelColor=0F172A"
-    alt="DSA Grinding"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://img.shields.io/badge/HACKATHONS-ACTIVE-F59E0B?style=for-the-badge&labelColor=0F172A"
-    alt="Hackathons Active"
-  />
-  <img
-    src="https://img.shields.io/badge/PROBLEM%20SOLVING-IMPROVING-22C55E?style=for-the-badge&labelColor=0F172A"
-    alt="Problem Solving"
-  />
-  <img
-    src="https://img.shields.io/badge/TRAINING%20ARC-ACTIVE-7C3AED?style=for-the-badge&labelColor=0F172A"
-    alt="Training Arc Active"
-  />
-</p>
+- 🎌 Anime fan
 
 ---
 
@@ -161,7 +99,7 @@
 
 **AI-powered Student Success & Career Platform**
 
-> An AI-powered platform designed to bring academic assistance, career development, skill building, productivity, and student opportunities into one ecosystem.
+An AI-powered platform bringing academic assistance, career development, skill building, productivity, and student opportunities into one ecosystem.
 
 **Focus:** AI • Education • Career Development • Full-Stack
 
@@ -171,7 +109,7 @@
 
 **AI-powered protection against voice-cloning fraud in banking calls.**
 
-> A voice security platform designed to detect and help prevent banking fraud caused by AI-generated voice cloning and impersonation.
+A voice security platform designed to detect and help prevent banking fraud caused by AI-generated voice cloning and impersonation.
 
 **Focus:** AI • Voice Security • Fraud Detection • Banking
 
@@ -181,7 +119,7 @@
 
 **AI-powered Land Acquisition & Management System**
 
-> AI-driven tools for document processing, land valuation, grievance triage, cadastral geometry verification, and land acquisition reporting.
+AI-driven tools for document processing, land valuation, grievance triage, cadastral geometry verification, and land acquisition reporting.
 
 **Focus:** AI • Government Tech • Document AI • GIS
 
@@ -191,7 +129,7 @@
 
 **AI-powered Document Simplification Platform**
 
-> Converts complex documents into easy-to-understand summaries, action items, important information, and key dates.
+Converts complex documents into easy-to-understand summaries, action items, important information, and key dates.
 
 **Focus:** Generative AI • Document AI • Accessibility
 
@@ -210,48 +148,15 @@
 
 ---
 
-## 🎯 Currently Learning
+## 📊 GitHub Stats
 
 <p align="center">
   <img
-    src="https://img.shields.io/badge/Artificial%20Intelligence-Exploring-38BDF8?style=for-the-badge&labelColor=0F172A"
-    alt="Artificial Intelligence"
-  />
-  <img
-    src="https://img.shields.io/badge/Machine%20Learning-Learning-2563EB?style=for-the-badge&labelColor=0F172A"
-    alt="Machine Learning"
-  />
-  <img
-    src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-Grinding-A78BFA?style=for-the-badge&labelColor=0F172A"
-    alt="DSA"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://img.shields.io/badge/Generative%20AI-Building-7C3AED?style=for-the-badge&labelColor=0F172A"
-    alt="Generative AI"
-  />
-  <img
-    src="https://img.shields.io/badge/Full--Stack-Developing-22C55E?style=for-the-badge&labelColor=0F172A"
-    alt="Full Stack"
-  />
-  <img
-    src="https://img.shields.io/badge/Cybersecurity-Exploring-F59E0B?style=for-the-badge&labelColor=0F172A"
-    alt="Cybersecurity"
-  />
-</p>
-
----
-
-## 📊 GitHub Dashboard
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=uiaryanyadav1109-dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
+    src="https://github-readme-stats.vercel.app/api?username=uiaryanyadav1109-dev&show_icons=true&theme=tokyonight&hide_border=true"
     height="180"
     alt="Aryan's GitHub Stats"
   />
+
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=uiaryanyadav1109-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
     height="180"
@@ -284,7 +189,7 @@
 
 ---
 
-## 🧩 LeetCode Journey
+## 🧩 LeetCode
 
 <p align="center">
   <img
@@ -301,35 +206,6 @@
       alt="LeetCode Profile"
     />
   </a>
-</p>
-
----
-
-## 📈 GitHub Contributions
-
-<p align="center">
-  <a href="https://github.com/uiaryanyadav1109-dev">
-    <img
-      src="https://img.shields.io/badge/View%20My%20GitHub%20Activity-181717?style=for-the-badge&logo=github&logoColor=white"
-      alt="View GitHub Activity"
-    />
-  </a>
-</p>
-
-<p align="center">
-  <i>Check my GitHub profile for the latest contribution activity, repositories, and projects.</i>
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/uiaryanyadav1109-dev/uiaryanyadav1109-dev/output/github-contribution-grid-snake.svg"
-    width="95%"
-    alt="GitHub Contribution Snake"
-  />
 </p>
 
 ---
@@ -366,94 +242,21 @@
 ## ⚡ Developer Philosophy
 
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1800&color=38BDF8&center=true&vCenter=true&width=750&height=45&lines=CODE+%E2%86%92+BUILD+%E2%86%92+BREAK+%E2%86%92+LEARN+%E2%86%92+REPEAT;Every+Bug+is+Just+Another+Training+Arc+%F0%9F%A5%B7;Keep+Building.+Keep+Learning.+Keep+Leveling+Up.+%F0%9F%9A%80"
-    alt="Developer Philosophy"
-  />
-</p>
-
-<table align="center">
-  <tr>
-    <td align="center" width="180">
-      <h3>💻</h3>
-      <b>CODE</b>
-      <br>
-      <sub>Learn the fundamentals.</sub>
-      <br><br>
-      <b>↓</b>
-    </td>
-
-    <td align="center" width="180">
-      <h3>🚀</h3>
-      <b>BUILD</b>
-      <br>
-      <sub>Turn ideas into reality.</sub>
-      <br><br>
-      <b>↓</b>
-    </td>
-
-    <td align="center" width="180">
-      <h3>💥</h3>
-      <b>BREAK</b>
-      <br>
-      <sub>Find what doesn't work.</sub>
-      <br><br>
-      <b>↓</b>
-    </td>
-
-    <td align="center" width="180">
-      <h3>🧠</h3>
-      <b>LEARN</b>
-      <br>
-      <sub>Understand. Improve.</sub>
-      <br><br>
-      <b>↓</b>
-    </td>
-
-    <td align="center" width="180">
-      <h3>⚡</h3>
-      <b>REPEAT</b>
-      <br>
-      <sub>Level up.</sub>
-    </td>
-  </tr>
-</table>
-
-<br>
-
-<p align="center">
-  <img
-    src="https://img.shields.io/badge/MINDSET-KEEP%20MOVING-38BDF8?style=for-the-badge&labelColor=0F172A"
-    alt="Keep Moving"
-  />
-  <img
-    src="https://img.shields.io/badge/BUILD-REAL%20THINGS-2563EB?style=for-the-badge&labelColor=0F172A"
-    alt="Build Real Things"
-  />
-  <img
-    src="https://img.shields.io/badge/LEARN-EVERY%20DAY-A78BFA?style=for-the-badge&labelColor=0F172A"
-    alt="Learn Every Day"
-  />
-  <img
-    src="https://img.shields.io/badge/TRAINING%20ARC-ACTIVE-7C3AED?style=for-the-badge&labelColor=0F172A"
-    alt="Training Arc Active"
-  />
-</p>
-
-<br>
-
-<p align="center">
-  <b>🎌 「The training arc never ends.」</b>
+  <b>CODE → BUILD → BREAK → LEARN → REPEAT</b>
 </p>
 
 <p align="center">
-  <i>Anime • Code • AI • Hackathons • Ambition</i>
+  <i>Every bug is another step in the training arc.</i>
+</p>
+
+<p align="center">
+  🎌 <b>Keep building. Keep learning. Keep leveling up.</b> 🚀
 </p>
 
 ---
 
 <p align="center">
-  <b>「Building. Learning. Evolving. 🚀」</b>
+  <b>Building. Learning. Evolving. 🚀</b>
 </p>
 
 <p align="center">
