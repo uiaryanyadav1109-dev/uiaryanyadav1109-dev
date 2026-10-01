@@ -5,11 +5,15 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=AI%2FML+Enthusiast;Full-Stack+Developer;Hackathon+Builder;Problem+Solver;Building.+Learning.+Evolving." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=AI%2FML+Enthusiast;Full-Stack+Developer;Hackathon+Builder;Problem+Solver;Anime+%26+Code+Enthusiast;Building.+Learning.+Evolving." />
 </p>
 
 <p align="center">
   <b>👨‍💻 AI/ML Enthusiast • Full-Stack Developer • Hackathon Builder</b>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=uiaryanyadav1109-dev&label=Profile%20Views&color=2563EB&style=for-the-badge" />
 </p>
 
 ---
@@ -22,27 +26,32 @@
 - 🏆 Active in **Hackathons & Tech Events**
 - 🧠 Currently improving my **DSA & Software Development** skills
 - 💡 Love turning ideas into practical real-world solutions
+- 🎌 Anime fan who believes every developer has a **training arc**
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
+
 <p>
   <img src="https://skillicons.dev/icons?i=python,c,cpp,js" />
 </p>
 
 ### 🌐 Web & Backend
+
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,react,nodejs" />
 </p>
 
 ### 🗄️ Database & Tools
+
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,postgres,git,github,vscode" />
 </p>
 
 ### 🤖 AI / ML
+
 `Python` • `Machine Learning` • `Generative AI` • `AI APIs`
 
 ---
@@ -50,21 +59,23 @@
 ## 🚀 Featured Projects
 
 ### 🚀 StudentOS
+
 **AI-powered Student Success & Career Platform**
 
 > Academic assistance, career development, skill building, and student productivity in one platform.
 
 ### 🛡️ VoiceShield
+
 **AI-powered protection against voice-cloning fraud in banking calls.**
 
->AI-powered voice security platform designed to detect and prevent **banking fraud caused by AI-generated voice cloning and impersonation during phone calls**.
-
 ### 🤖 NLAMS AI Engine
+
 **AI-powered Land Acquisition & Management System**
 
-> AI-driven tools for document processing, valuation, grievance triage, geometry verification, and reporting of lands.
+> AI-driven tools for document processing, valuation, grievance triage, geometry verification, and land acquisition reporting.
 
 ### 📄 Saral
+
 **AI-powered Document Simplification Platform**
 
 > Converts complex documents into easy-to-understand summaries, action items, and key dates.
@@ -74,7 +85,7 @@
 ## 🏆 Hackathons & Experience
 
 - 🏆 **Smart India Hackathon (SIH)** — Hackathon Participant
-- 🔥 **Ministry of Micro, Small and Medium Enterprises(MSMEs)** — Hackathon Participant
+- 🔥 **Ministry of Micro, Small and Medium Enterprises (MSME)** — Hackathon Participant
 - ⚡ **JISTECH 2026** — Frontend & Backend Engineer
 - 🚀 **CRAZY BUILDS** — Frontend & Backend Engineer
 - 💻 **HackNex 2.0** — Hackathon Participant
@@ -124,9 +135,11 @@ Cybersecurity      ████████░░░░░░░░░░
   <a href="https://www.linkedin.com/in/aryan-yadav-7598363a/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
+
   <a href="https://github.com/uiaryanyadav1109-dev">
     <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
   </a>
+
   <a href="https://leetcode.com/u/aryanyadav_11/">
     <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode" />
   </a>
@@ -135,9 +148,13 @@ Cybersecurity      ████████░░░░░░░░░░
 ---
 
 <p align="center">
-  <i>🎌 Anime • 💻 Code • 🤖 AI • 🚀 Ambition</i>
+  <i>🎌 Anime • 💻 Code • 🤖 AI • 🏆 Hackathons • 🚀 Ambition</i>
 </p>
 
 <p align="center">
-  <b>"Building. Learning. Evolving. 🚀"</b>
+  <b>「Building. Learning. Evolving. 🚀」</b>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0F172A&height=120&section=footer" width="100%" />
 </p>
