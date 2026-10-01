@@ -43,68 +43,6 @@
 - 🔐 Exploring **Cybersecurity & AI-powered systems**
 - 🎌 Anime fan who believes every developer has a **training arc**
 
-<br>
-
-<p align="center">
-  <img
-    src="https://img.shields.io/badge/FOCUS-AI%20%2F%20ML-38BDF8?style=for-the-badge&labelColor=0F172A"
-    alt="AI ML Focus"
-  />
-  <img
-    src="https://img.shields.io/badge/BUILDING-FULL%20STACK-2563EB?style=for-the-badge&labelColor=0F172A"
-    alt="Full Stack"
-  />
-  <img
-    src="https://img.shields.io/badge/LEARNING-DSA-A78BFA?style=for-the-badge&labelColor=0F172A"
-    alt="DSA Learning"
-  />
-  <img
-    src="https://img.shields.io/badge/EXPLORING-GENERATIVE%20AI-7C3AED?style=for-the-badge&labelColor=0F172A"
-    alt="Generative AI"
-  />
-</p>
-
----
-
-## ⚡ Current Arc
-
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&height=60&lines=Training+in+AI%2FML+%F0%9F%A4%96;Building+Full-Stack+Projects+%F0%9F%92%BB;Grinding+DSA+%F0%9F%A7%A0;Competing+in+Hackathons+%F0%9F%8F%86;Leveling+Up+Every+Day+%F0%9F%9A%80"
-    alt="Current Developer Arc"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://img.shields.io/badge/AI%20%2F%20ML-FOCUS-38BDF8?style=for-the-badge&labelColor=0F172A"
-    alt="AI ML Focus"
-  />
-  <img
-    src="https://img.shields.io/badge/FULL--STACK-BUILDING-2563EB?style=for-the-badge&labelColor=0F172A"
-    alt="Full Stack Building"
-  />
-  <img
-    src="https://img.shields.io/badge/DSA-GRINDING-A78BFA?style=for-the-badge&labelColor=0F172A"
-    alt="DSA Grinding"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://img.shields.io/badge/HACKATHONS-ACTIVE-F59E0B?style=for-the-badge&labelColor=0F172A"
-    alt="Hackathons Active"
-  />
-  <img
-    src="https://img.shields.io/badge/PROBLEM%20SOLVING-IMPROVING-22C55E?style=for-the-badge&labelColor=0F172A"
-    alt="Problem Solving"
-  />
-  <img
-    src="https://img.shields.io/badge/TRAINING%20ARC-ACTIVE-7C3AED?style=for-the-badge&labelColor=0F172A"
-    alt="Training Arc Active"
-  />
-</p>
-
 ---
 
 ## 🛠️ Tech Stack
@@ -210,41 +148,7 @@
 
 ---
 
-## 🎯 Currently Learning
-
-<p align="center">
-  <img
-    src="https://img.shields.io/badge/Artificial%20Intelligence-Exploring-38BDF8?style=for-the-badge&labelColor=0F172A"
-    alt="Artificial Intelligence"
-  />
-  <img
-    src="https://img.shields.io/badge/Machine%20Learning-Learning-2563EB?style=for-the-badge&labelColor=0F172A"
-    alt="Machine Learning"
-  />
-  <img
-    src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-Grinding-A78BFA?style=for-the-badge&labelColor=0F172A"
-    alt="DSA"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://img.shields.io/badge/Generative%20AI-Building-7C3AED?style=for-the-badge&labelColor=0F172A"
-    alt="Generative AI"
-  />
-  <img
-    src="https://img.shields.io/badge/Full--Stack-Developing-22C55E?style=for-the-badge&labelColor=0F172A"
-    alt="Full Stack"
-  />
-  <img
-    src="https://img.shields.io/badge/Cybersecurity-Exploring-F59E0B?style=for-the-badge&labelColor=0F172A"
-    alt="Cybersecurity"
-  />
-</p>
-
----
-
-## 📊 GitHub Dashboard
+## 📊 GitHub Stats
 
 <p align="center">
   <img
@@ -305,23 +209,6 @@
 
 ---
 
-## 📈 GitHub Contributions
-
-<p align="center">
-  <a href="https://github.com/uiaryanyadav1109-dev">
-    <img
-      src="https://img.shields.io/badge/View%20My%20GitHub%20Activity-181717?style=for-the-badge&logo=github&logoColor=white"
-      alt="View GitHub Activity"
-    />
-  </a>
-</p>
-
-<p align="center">
-  <i>Check my GitHub profile for the latest contribution activity, repositories, and projects.</i>
-</p>
-
----
-
 ## 🐍 Contribution Snake
 
 <p align="center">
@@ -365,13 +252,6 @@
 
 ## ⚡ Developer Philosophy
 
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1800&color=38BDF8&center=true&vCenter=true&width=750&height=45&lines=CODE+%E2%86%92+BUILD+%E2%86%92+BREAK+%E2%86%92+LEARN+%E2%86%92+REPEAT;Every+Bug+is+Just+Another+Training+Arc+%F0%9F%A5%B7;Keep+Building.+Keep+Learning.+Keep+Leveling+Up.+%F0%9F%9A%80"
-    alt="Developer Philosophy"
-  />
-</p>
-
 <table align="center">
   <tr>
     <td align="center" width="180">
@@ -379,10 +259,8 @@
       <b>CODE</b>
       <br>
       <sub>Learn the fundamentals.</sub>
-    </td>
-
-    <td align="center" width="40">
-      <b>→</b>
+      <br><br>
+      <b>↓</b>
     </td>
 
     <td align="center" width="180">
@@ -390,10 +268,8 @@
       <b>BUILD</b>
       <br>
       <sub>Turn ideas into reality.</sub>
-    </td>
-
-    <td align="center" width="40">
-      <b>→</b>
+      <br><br>
+      <b>↓</b>
     </td>
 
     <td align="center" width="180">
@@ -401,10 +277,8 @@
       <b>BREAK</b>
       <br>
       <sub>Find what doesn't work.</sub>
-    </td>
-
-    <td align="center" width="40">
-      <b>→</b>
+      <br><br>
+      <b>↓</b>
     </td>
 
     <td align="center" width="180">
@@ -412,10 +286,8 @@
       <b>LEARN</b>
       <br>
       <sub>Understand. Improve.</sub>
-    </td>
-
-    <td align="center" width="40">
-      <b>→</b>
+      <br><br>
+      <b>↓</b>
     </td>
 
     <td align="center" width="180">
@@ -430,27 +302,6 @@
 <br>
 
 <p align="center">
-  <img
-    src="https://img.shields.io/badge/MINDSET-KEEP%20MOVING-38BDF8?style=for-the-badge&labelColor=0F172A"
-    alt="Keep Moving"
-  />
-  <img
-    src="https://img.shields.io/badge/BUILD-REAL%20THINGS-2563EB?style=for-the-badge&labelColor=0F172A"
-    alt="Build Real Things"
-  />
-  <img
-    src="https://img.shields.io/badge/LEARN-EVERY%20DAY-A78BFA?style=for-the-badge&labelColor=0F172A"
-    alt="Learn Every Day"
-  />
-  <img
-    src="https://img.shields.io/badge/TRAINING%20ARC-ACTIVE-7C3AED?style=for-the-badge&labelColor=0F172A"
-    alt="Training Arc Active"
-  />
-</p>
-
-<br>
-
-<p align="center">
   <b>🎌 「The training arc never ends.」</b>
 </p>
 
@@ -461,7 +312,7 @@
 ---
 
 <p align="center">
-  <b>「Building. Learning. Evolving. 🚀」</b>
+  <b>Building. Learning. Evolving. 🚀</b>
 </p>
 
 <p align="center">
