@@ -185,7 +185,6 @@ Transforms complex documents into easier-to-understand summaries, action items, 
 | ⚡ **JISTECH 2026** | Frontend & Backend Engineer |
 | 🔥 **CRAZY BUILDS** | Frontend & Backend Engineer |
 | 🚀 **HackNex 2.0** | Hackathon Participant |
-| 🧩 **HEXAFALLS 2.0** | Hackathon Participant |
 
 ### 📌 Hackathon Milestone
 
@@ -248,6 +247,7 @@ Transforms complex documents into easier-to-understand summaries, action items, 
     alt="GitHub Contribution Streak"
   />
 </p>
+
 ---
 
 ## 🔥 GitHub Streak
