@@ -16,6 +16,13 @@
 </p>
 
 <p align="center">
+  <a href="https://codebyaryan.vercel.app/">
+    <img
+      src="https://img.shields.io/badge/🌐%20Portfolio-codebyaryan.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white"
+      alt="Portfolio"
+    />
+  </a>
+
   <a href="https://github.com/uiaryanyadav1109-dev">
     <img
       src="https://img.shields.io/github/followers/uiaryanyadav1109-dev?label=Followers&style=for-the-badge&logo=github&labelColor=0F172A&color=7C3AED"
@@ -57,7 +64,7 @@ I enjoy turning ideas into working products, experimenting with emerging technol
 
 ### 🤖 AI-Powered Applications
 
-Building intelligent applications using
+Building intelligent applications using  
 AI/ML, Generative AI and AI APIs.
 
 </td>
@@ -66,7 +73,7 @@ AI/ML, Generative AI and AI APIs.
 
 ### 💻 Full-Stack Products
 
-Creating modern web applications
+Creating modern web applications  
 from frontend to backend.
 
 </td>
@@ -77,7 +84,7 @@ from frontend to backend.
 
 ### 🔐 Security Solutions
 
-Exploring AI-driven approaches to
+Exploring AI-driven approaches to  
 fraud detection and cybersecurity.
 
 </td>
@@ -86,7 +93,7 @@ fraud detection and cybersecurity.
 
 ### 🚀 Hackathon Projects
 
-Rapidly designing and developing
+Rapidly designing and developing  
 solutions for real-world problems.
 
 </td>
@@ -184,7 +191,7 @@ Transforms complex documents into easier-to-understand summaries, action items, 
 | 💡 **MSME Idea Hackathon 6.0** | Full Stack Engineer |
 | ⚡ **JISTECH 2026** | Hardware Engineer |
 | 🔥 **CRAZY BUILDS** | Frontend & Backend Engineer |
-| 🚀 **HackNex 2.0** |AI & Backend Engineer |
+| 🚀 **HackNex 2.0** | AI & Backend Engineer |
 
 ### 📌 Hackathon Milestone
 
@@ -225,6 +232,7 @@ Transforms complex documents into easier-to-understand summaries, action items, 
 </p>
 
 ---
+
 ## 📊 Developer Activity
 
 <p align="center">
@@ -244,18 +252,6 @@ Transforms complex documents into easier-to-understand summaries, action items, 
   <img
     src="https://streak-stats.demolab.com/?user=uiaryanyadav1109-dev&theme=tokyonight&hide_border=true"
     height="180"
-    alt="GitHub Contribution Streak"
-  />
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=uiaryanyadav1109-dev&theme=tokyonight&hide_border=true"
-    width="70%"
     alt="GitHub Contribution Streak"
   />
 </p>
@@ -290,6 +286,13 @@ I'm interested in collaborating on:
 ## 📫 Connect With Me
 
 <p align="center">
+
+  <a href="https://codebyaryan.vercel.app/">
+    <img
+      src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"
+      alt="Portfolio"
+    />
+  </a>
 
   <a href="https://www.linkedin.com/in/aryan-yadav-dev01/">
     <img
