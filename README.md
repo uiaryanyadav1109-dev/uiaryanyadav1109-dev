@@ -52,7 +52,6 @@ I enjoy turning ideas into working products, experimenting with emerging technol
 - 🚀 Participating in **hackathons and technical events**
 - 🔐 Exploring **cybersecurity & AI security**
 - 🌍 Interested in **real-world technology solutions**
-- 🎌 Anime enthusiast
 
 ---
 
