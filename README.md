@@ -1,7 +1,7 @@
 # Hi, I'm Aryan Yadav 👋
 
 <p align="center">
-  <img src="./assets/Neon Developer Profile_ Aryan Yadav.png" width="100%" alt="Aryan Yadav — AI/ML Engineer and Full-Stack Developer" />
+  <img src="assests/Neon Developer Profile_ Aryan Yadav.png" width="100%" alt="Aryan Yadav — AI/ML Engineer and Full-Stack Developer" />
 </p>
 
 <p align="center">
