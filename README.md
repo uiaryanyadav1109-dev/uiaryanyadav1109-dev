@@ -1,259 +1,193 @@
-# Hi, I'm Aryan Yadav 👋
+<div align="center">
 
-<p align="center">
-  <img src="assests/Neon Developer Profile_ Aryan Yadav.png" width="100%" alt="Aryan Yadav — AI/ML Engineer and Full-Stack Developer" />
-</p>
+<img src="./assets/aryan-github-banner.png" alt="Aryan Yadav – Neon Developer Profile" width="100%" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=750&height=55&lines=AI%2FML+Enthusiast;Full-Stack+Developer;Generative+AI+Explorer;Hackathon+Builder;Building+Real-World+Solutions" alt="Typing Introduction" />
-</p>
-
-<p align="center">
-  <a href="https://codebyaryan.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://github.com/uiaryanyadav1109-dev"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://www.linkedin.com/in/aryan-yadav-dev01/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://leetcode.com/u/aryanyadav_11/"><img src="https://img.shields.io/badge/LeetCode-Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
-</p>
-
----
-
-## 👨‍💻 About Me
-
-I'm a **2nd-year B.Tech Computer Science & Technology student at JIS College of Engineering**, passionate about building technology that solves real-world problems.
-
-My interests span **Artificial Intelligence, Machine Learning, Generative AI, Full-Stack Development, and Cybersecurity**. I enjoy turning ideas into working products, experimenting with new technologies, and collaborating with teams to build solutions under hackathon deadlines.
-
-- 🤖 Exploring AI/ML and Generative AI
-- 💻 Building full-stack web applications and digital products
-- 🏥 Developing AI-assisted healthcare technology
-- 🎓 Exploring AI-powered education and career development
-- 🔐 Interested in cybersecurity, AI security, and fraud prevention
-- 🚀 Building, learning, and collaborating through hackathons
-- 🧠 Practicing DSA and strengthening problem-solving skills
-- 🔌 Exploring hardware, IoT, and intelligent connected systems
-
-> **My focus:** Learn deeply, build practically, and turn ambitious ideas into useful products.
-
----
-
-## 🚀 Featured Projects
-
-### 🏥 MedicalAI — AI-Assisted Clinical Intelligence
-
-**AI-assisted healthcare information and preliminary triage platform**
-
-[![Repository](https://img.shields.io/badge/GitHub-MedicalAI-181717?style=flat-square&logo=github)](https://github.com/uiaryanyadav1109-dev/MedicalAI)
-
-MedicalAI aims to bring AI-assisted health information and patient-care support into a unified digital experience.
-
-**Key development areas**
-- AI-assisted health conversations and preliminary symptom guidance
-- Patient profiles and organized health information
-- Patient ID and QR-based information-sharing workflows
-- Medication reminders and emergency-support workflows
-- Doctor-oriented workflows and multilingual accessibility
-- Web application, backend API, and mobile deployment
-
-**Technology direction:** `React` `Vite` `Node.js` `Express` `Firebase` `Gemini AI`
-
-*MedicalAI is a developing project, not a clinically validated diagnostic system. AI responses are informational and do not replace professional medical care.*
----
-
-### 🛡️ VoiceShield — AI Voice Fraud Protection
-
-**AI-powered protection concept for voice-cloning fraud in banking**
-
-VoiceShield focuses on the risks created by AI-generated voice cloning and impersonation in financial interactions.
-
-**Key development areas**
-- Voice-based impersonation and fraud-risk detection
-- AI-assisted voice security workflows
-- Banking-oriented security and verification concepts
-
-**Focus:** `AI Security` `Voice AI` `Fraud Detection` `Banking Technology`
-
----
-
-### 🏛️ NLAMS AI Engine — Land Acquisition Intelligence
-
-**AI-powered Land Acquisition & Management System**
-
-An AI-assisted engine for supporting land acquisition workflows, document processing, grievance handling, and land-related analysis.
-
-**Key development areas**
-- Gazette and document OCR workflows
-- Land valuation and RFCTLARR-related calculations
-- Grievance triage and AI-assisted responses
-- Cadastral geometry processing and verification
-- Award-summary generation and reporting
-
-**Technology:** `Python` `FastAPI` `Gemini` `Shapely` `ReportLab`
-
-[Explore NLAMS-1 on GitHub](https://github.com/uiaryanyadav1109-dev/NLAMS-1)
-
----
-
-### 📄 Saral — AI Document Simplification
-
-**Making complex documents easier to understand**
-
-Saral is an AI-powered document simplification concept focused on turning complex content into more accessible information.
-
-**Focus areas**
-- Document summarization
-- Important dates and key information extraction
-- Action-item identification
-- Accessibility and easier information consumption
-
-**Focus:** `Generative AI` `Document AI` `Accessibility`
-
----
-
-### 🛍️ FitMart — Fitness & Nutrition E-Commerce
-
-**A full-stack fitness and nutrition commerce platform**
-
-FitMart combines fitness shopping, nutrition products, workout-oriented experiences, and e-commerce workflows in a single application.
-
-**Technology direction:** `React` `Node.js` `MongoDB` `Firebase` `Razorpay` `Tailwind CSS` `Gemini AI`
-
----
-
-## 🏆 Hackathons & Innovation
-
-I enjoy hackathons because they push me to collaborate, think under pressure, and turn early ideas into working solutions.
-
-| Event / Initiative | Contribution or focus |
-|---|---|
-| **Smart India Hackathon (SIH)** | Frontend and AI backend engineering |
-| **MSME Idea Hackathon 6.0** | Full-stack engineering and innovation |
-| **JISTECH 2026** | Hardware engineering |
-| **CRAZY BUILDS** | Frontend and backend engineering |
-| **HackNex 2.0** | AI and backend engineering |
-
-### 🥇 SIH Milestone
-
-**Shortlisted 11th among 110+ teams, with a score of 92/100.**
-
-This experience strengthened my interest in collaborative engineering, rapid prototyping, and building solutions around real-world challenges.
-
-*Event roles and project descriptions reflect my contributions and focus areas; participation, selection, and award status should be represented according to the official event results.*
-
----
-
-## 🛠️ Technical Skills
-
-### Programming Languages
+<a href="https://github.com/uiaryanyadav1109-dev">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=00F5FF&center=true&vCenter=true&width=560&height=50&lines=AI%2FML+Enthusiast;Full-Stack+Developer;Generative+AI+Explorer;Hackathon+Builder;Problem+Solver" alt="Typing animation" />
+</a>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,js,ts" alt="Python, C, C++, JavaScript and TypeScript" />
+  <a href="https://codebyaryan.vercel.app"><img src="https://img.shields.io/badge/Portfolio-codebyaryan-00F5FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/aryan-yadav-7598363a1/"><img src="https://img.shields.io/badge/LinkedIn-Aryan_Yadav-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn" /></a>
+  <a href="https://leetcode.com/u/aryan-yadav_11/"><img src="https://img.shields.io/badge/LeetCode-aryan--yadav__11-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0D1117" alt="LeetCode" /></a>
 </p>
 
-### Frontend Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,vite" alt="Frontend technologies" />
-</p>
-
-### Backend & Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mysql,postgres,mongodb" alt="Backend and database technologies" />
-</p>
-
-### AI / ML & Generative AI
-
-<p>
-  <img src="https://img.shields.io/badge/Artificial%20Intelligence-Exploring-0F172A?style=for-the-badge&logo=googlecloud&logoColor=38BDF8" alt="Artificial Intelligence" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-Learning-0F172A?style=for-the-badge&logo=scikitlearn&logoColor=F59E0B" alt="Machine Learning" />
-  <img src="https://img.shields.io/badge/Generative%20AI-LLMs%20%26%20RAG-0F172A?style=for-the-badge&logo=openai&logoColor=A78BFA" alt="Generative AI" />
-  <img src="https://img.shields.io/badge/AI%20APIs-Gemini%20%26%20LLMs-0F172A?style=for-the-badge&logo=google&logoColor=38BDF8" alt="AI APIs" />
-</p>
-
-### Developer Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,render" alt="Developer tools and deployment platforms" />
-</p>
-
-*My skills are evolving through coursework, personal projects, and collaborative development.*
+</div>
 
 ---
 
-## 🎯 Currently Learning & Exploring
+## 👋 About Me
 
-<p>
-  <img src="https://img.shields.io/badge/AI%20%26%20ML-Exploring-38BDF8?style=for-the-badge&labelColor=0F172A" alt="AI and ML" />
-  <img src="https://img.shields.io/badge/Generative%20AI-Building-8B5CF6?style=for-the-badge&labelColor=0F172A" alt="Generative AI" />
-  <img src="https://img.shields.io/badge/Full--Stack-Developing-22D3EE?style=for-the-badge&labelColor=0F172A" alt="Full-stack development" />
-  <img src="https://img.shields.io/badge/DSA-Practicing-A78BFA?style=for-the-badge&labelColor=0F172A" alt="DSA" />
-  <img src="https://img.shields.io/badge/Cybersecurity-Exploring-6366F1?style=for-the-badge&labelColor=0F172A" alt="Cybersecurity" />
-  <img src="https://img.shields.io/badge/Hardware%20%26%20IoT-Exploring-10B981?style=for-the-badge&labelColor=0F172A" alt="Hardware and IoT" />
-</p>
+I'm an AI/ML enthusiast and full-stack developer who loves turning ideas into working products. I build across the stack, from responsive React interfaces to Python-powered backends, and I'm especially drawn to Generative AI and RAG systems. I learn by shipping, whether that's at a hackathon or on a weekend project, and I enjoy hardware and IoT on the side.
 
 ---
 
-## 📊 GitHub Analytics
+## 🛠️ Tech Stack & Skills
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=uiaryanyadav1109-dev&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180" alt="GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uiaryanyadav1109-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Most used programming languages" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=uiaryanyadav1109-dev&theme=tokyonight&hide_border=true" height="180" alt="GitHub contribution streak" />
-</p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+<img src="https://img.shields.io/badge/AI%2FML-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="AI/ML" />
+<img src="https://img.shields.io/badge/Generative_AI-8A2BE2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Generative AI" />
 
----
+</div>
 
-## 🧩 LeetCode
-
-<p align="center">
-  <a href="https://leetcode.com/u/aryanyadav_11/">
-    <img src="https://leetcard.jacoblin.cool/aryanyadav_11?theme=dark&font=Baloo&ext=heatmap" width="80%" alt="Aryan's LeetCode statistics" />
-  </a>
-</p>
-
----
-
-## 🤝 Open to Collaborate
-
-I'm interested in collaborating on:
-
-- 🤖 AI/ML and Generative AI applications
-- 🏥 Healthcare technology and responsible AI
-- 🎓 EdTech and student-focused platforms
-- 💻 Full-stack web applications
-- 🔐 Cybersecurity and AI security
-- 🚀 Hackathons, prototypes, and innovation challenges
-- 🌍 Open-source projects with real-world impact
-- 🔌 Hardware, IoT, and intelligent systems
-
-If you're building something interesting, let's connect and explore how we can build it together.
+| Category | Technologies / Interests |
+| :-- | :-- |
+| **Frontend** | HTML, CSS, JavaScript, React |
+| **Backend** | Python, MySQL, C/C++ |
+| **AI/ML** | Machine Learning, Generative AI, RAG |
+| **Problem Solving** | LeetCode, DSA |
+| **Other Interests** | Hardware, IoT, Hackathons |
 
 ---
 
-## 📫 Connect With Me
+## 📊 GitHub Statistics
 
-<p align="center">
-  <a href="https://codebyaryan.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/aryan-yadav-dev01/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/uiaryanyadav1109-dev"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://leetcode.com/u/aryanyadav_11/"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
-</p>
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=uiaryanyadav1109-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=BD00FF" alt="GitHub Stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uiaryanyadav1109-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF" alt="Top Languages" />
+
+<img height="170" src="https://streak-stats.demolab.com?user=uiaryanyadav1109-dev&theme=tokyonight&hide_border=true&background=0D1117&ring=00F5FF&fire=BD00FF&currStreakLabel=00F5FF" alt="GitHub Streak" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=uiaryanyadav1109-dev&bg_color=0D1117&color=00F5FF&line=BD00FF&point=FFFFFF&area=true&hide_border=true" alt="Contribution Activity Graph" width="100%" />
+
+</div>
+
+<details>
+<summary><b>🐍 Contribution Snake (click to expand)</b></summary>
+<br />
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/uiaryanyadav1109-dev/uiaryanyadav1109-dev/output/github-contribution-grid-snake-dark.svg" />
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/uiaryanyadav1109-dev/uiaryanyadav1109-dev/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+</details>
 
 ---
 
-## ⚡ Developer Philosophy
+## 🧩 LeetCode Statistics
 
-<p align="center">
-  <b>IDEA → BUILD → TEST → LEARN → IMPROVE</b>
-</p>
+<div align="center">
 
-<p align="center">
-  <i>Every bug is another step in the training arc.</i>
-</p>
+<a href="https://leetcode.com/u/aryan-yadav_11/">
+  <img height="180" src="https://leetcard.jacoblin.cool/aryan-yadav_11?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
+</a>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:7C3AED,50:312E81,100:0F172A" width="100%" alt="Profile footer" />
-</p>
+</div>
+
+---
+
+## 🚀 Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🩺 MedicalAI</h3>
+      AI-assisted clinical intelligence and preliminary triage.<br /><br />
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+      <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" /><br /><br />
+      <a href="https://github.com/uiaryanyadav1109-dev/MedicalAI">📂 Repository</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌱 GreenOps</h3>
+      Infrastructure monitoring and sustainability-focused computing.<br /><br />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/psutil-000000?style=flat-square" />
+      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+      <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" /><br /><br />
+      <a href="https://github.com/uiaryanyadav1109-dev/GreenOps">📂 Repository</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔳 QR Nova</h3>
+      QR Code Studio with customization and download features.<br /><br />
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/QRCode.js-000000?style=flat-square" /><br /><br />
+      <a href="https://github.com/uiaryanyadav1109-dev/QR-Nova">🔗 Live Project</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎵 VibePlayer</h3>
+      Personal music and video player.<br /><br />
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /><br /><br />
+      <a href="https://github.com/uiaryanyadav1109-dev/VibePlayer">📂 Repository</a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3>💼 Personal Portfolio</h3>
+      My developer portfolio and project showcase.<br /><br />
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /><br /><br />
+      <a href="https://codebyaryan.vercel.app">🔗 Live Portfolio</a>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🏆 Hackathons & Achievements
+
+- 🥇 **SIH Akatsuki**: shortlisted **11th among 110+ teams**, scoring **92/100**
+- 💻 **AKI HACKS × HACKTOBERFEST'26**: participant
+- 🛡️ **HackInverse 1.0**: participant
+- 🎓 **RAG Masters**: learning certification from Euron
+- 🤖 **Generative AI**: Basic to Advance certification
+- 🐍 **Python (Basic)**: certification
+- 🌐 Participation in other hackathons and technology events
+
+---
+
+## 📚 Currently Learning
+
+- 🧠 Retrieval-Augmented Generation (RAG) and LLM application design
+- 🤖 Generative AI and applied machine learning
+- 🧮 Data Structures & Algorithms
+- ⚙️ Full-stack architecture and hardware/IoT integrations
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/uiaryanyadav1109-dev"><img src="https://img.shields.io/badge/GitHub-uiaryanyadav1109--dev-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://linkedin.com/in/aryan-yadav-7598363a1/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://leetcode.com/u/aryan-yadav_11/"><img src="https://img.shields.io/badge/LeetCode-Follow-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
+<a href="https://codebyaryan.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-00F5FF?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio" /></a>
+
+</div>
+
+---
+
+## 💭 Developer Philosophy
+
+> Learn fast, experiment freely, and build things that actually work. Every project is a chance to turn curiosity into something real.
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:7B2FFF,100:BD00FF&height=120&section=footer" width="100%" alt="Footer" />
+
+</div>
