@@ -22,17 +22,9 @@
 
 ## `~/whoami`
 
-```bash
-$ cat aryan.json
-{
-  "name":      "Aryan Yadav",
-  "education": "B.Tech CST, 2nd year · JIS College of Engineering",
-  "focus":     ["AI/ML", "Generative AI", "Full-Stack Development"],
-  "also_into": ["Cybersecurity", "Hardware & IoT", "DSA"],
-  "mode":      "hackathon builder",
-  "motto":     "Learn deeply. Build practically."
-}
-```
+<p align="center">
+  <img src="./assets/whoami-terminal.svg" width="100%" alt="Terminal card: Aryan Yadav, B.Tech CST 2nd year at JIS College of Engineering. Focus: AI/ML, Generative AI, Full-Stack Development. Also into Cybersecurity, Hardware and IoT, DSA. Mode: hackathon builder. Motto: Learn deeply. Build practically." />
+</p>
 
 I turn ideas into working products and enjoy doing it with a team under a hackathon deadline. My work leans toward **AI-assisted healthcare, AI security, civic tech and e-commerce**, with a steady habit of DSA practice on the side.
 
