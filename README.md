@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=1000&color=00FF9C&center=true&vCenter=true&width=760&height=55&lines=AI%2FML+Enthusiast;Full-Stack+Developer;Generative+AI+Explorer;Hackathon+Builder;Building+Real-World+Solutions" alt="Typing introduction" />
+  <img src="./assests/lock_24dp_E3E3E3_FILL0_wght400_GRAD0_opsz24.svg"font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=1000&color=00FF9C&center=true&vCenter=true&width=760&height=55&lines=AI%2FML+Enthusiast;Full-Stack+Developer;Generative+AI+Explorer;Hackathon+Builder;Building+Real-World+Solutions" alt="Typing introduction" />
 </p>
 
 <p align="center">
