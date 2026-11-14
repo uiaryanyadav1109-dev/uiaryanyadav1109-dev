@@ -160,3 +160,125 @@ Hackathons are my primary proving ground—turning raw problem statements into w
 
 | Event | Role & Engineering Focus |
 |:--|:--|
+| **Smart India Hackathon (SIH)** | Frontend Architecture & AI Backend Engineering |
+| **MSME Idea Hackathon 6.0** | Full-Stack Product Engineering & System Design |
+| **HackNex 2.0** | AI Engine Development & FastAPI Backend |
+| **JISTECH 2026** | Hardware Prototyping & Embedded IoT Systems |
+| **CRAZY BUILDS** | Full-Stack Rapid Prototyping |
+| **HackInverse 1.0** | Collaborative AI Application Development |
+| **AKI HACKS × HACKTOBERFEST'26** | Open-Source & Hackathon Builder |
+
+### Certifications
+
+<p>
+  <img src="https://img.shields.io/badge/Python_(Basic)-Certified-0B0F0C?style=for-the-badge&logo=python&logoColor=00FF9C" alt="Python Basic" />
+  <img src="https://img.shields.io/badge/Generative_AI-Basic_to_Advance-0B0F0C?style=for-the-badge&logo=googlegemini&logoColor=FFB703" alt="Generative AI" />
+  <img src="https://img.shields.io/badge/RAG_Masters-Euron-0B0F0C?style=for-the-badge&logoColor=00FF9C" alt="RAG Masters Euron" />
+</p>
+
+---
+
+## `./tech-stack`
+
+| Category | Technologies & Tools |
+|:--|:--|
+| **Languages** | <img src="https://skillicons.dev/icons?i=python,c,cpp,js,ts&theme=dark" height="36" alt="Languages" /> |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,vite&theme=dark" height="36" alt="Frontend" /> |
+| **Backend & DB** | <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,firebase,mysql,postgres,mongodb&theme=dark" height="36" alt="Backend and Databases" /> |
+| **DevOps & Tools** | <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel&theme=dark" height="36" alt="Developer Tools" /> |
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Machine_Learning-Scikit--Learn-0B0F0C?style=for-the-badge&logo=scikitlearn&logoColor=00FF9C" alt="Machine Learning" />
+  <img src="https://img.shields.io/badge/Generative_AI-LLMs_%26_RAG-0B0F0C?style=for-the-badge&logo=googlegemini&logoColor=FFB703" alt="Generative AI" />
+  <img src="https://img.shields.io/badge/Data_Processing-Pandas_%26_NumPy-0B0F0C?style=for-the-badge&logo=pandas&logoColor=00FF9C" alt="Pandas and NumPy" />
+</p>
+
+---
+
+## `./currently-learning`
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AI_%26_ML-EXPLORING-00FF9C?style=for-the-badge&labelColor=0B0F0C" />
+  <img src="https://img.shields.io/badge/GENERATIVE_AI_%26_RAG-BUILDING-FFB703?style=for-the-badge&labelColor=0B0F0C" />
+  <img src="https://img.shields.io/badge/FULL--STACK-SCALING-00FF9C?style=for-the-badge&labelColor=0B0F0C" />
+  <img src="https://img.shields.io/badge/DSA-PRACTICING-FFB703?style=for-the-badge&labelColor=0B0F0C" />
+  <img src="https://img.shields.io/badge/CYBERSECURITY-EXPLORING-00FF9C?style=for-the-badge&labelColor=0B0F0C" />
+  <img src="https://img.shields.io/badge/HARDWARE_%26_IOT-PROTOTYPING-FFB703?style=for-the-badge&labelColor=0B0F0C" />
+</p>
+
+---
+
+## `./github-telemetry`
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=uiaryanyadav1109-dev&show_icons=true&hide_border=true&bg_color=0B0F0C&title_color=00FF9C&icon_color=FFB703&text_color=D1FAE5&ring_color=00FF9C&rank_icon=github" alt="GitHub statistics" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uiaryanyadav1109-dev&layout=compact&langs_count=8&hide_border=true&bg_color=0B0F0C&title_color=00FF9C&text_color=D1FAE5" alt="Most-used programming languages" />
+</p>
+
+<p align="center">
+  <img width="75%" src="https://streak-stats.demolab.com/?user=uiaryanyadav1109-dev&hide_border=true&background=0B0F0C&ring=00FF9C&fire=FFB703&currStreakLabel=00FF9C&currStreakNum=D1FAE5&sideLabels=D1FAE5&sideNums=D1FAE5&dates=6B7280" alt="GitHub contribution streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=uiaryanyadav1109-dev&theme=matrix&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4" alt="GitHub trophies" />
+</p>
+
+<p align="center">
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=uiaryanyadav1109-dev&bg_color=0B0F0C&color=D1FAE5&line=00FF9C&point=FFB703&area=true&area_color=00FF9C&hide_border=true&custom_title=Contribution%20Activity" alt="GitHub contribution activity" />
+</p>
+
+<details>
+<summary><b>🐍 View Contribution Grid Snake</b></summary>
+<br />
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/uiaryanyadav1109-dev/uiaryanyadav1109-dev/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/uiaryanyadav1109-dev/uiaryanyadav1109-dev/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/uiaryanyadav1109-dev/uiaryanyadav1109-dev/output/github-contribution-grid-snake-dark.svg" width="100%">
+  </picture>
+</p>
+</details>
+
+---
+
+## `./leetcode-progress`
+
+<p align="center">
+  <a href="https://leetcode.com/u/aryanyadav_11/">
+    <img width="80%" src="https://leetcard.jacoblin.cool/aryanyadav_11?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode profile statistics and activity" />
+  </a>
+</p>
+
+---
+
+## `./collaborate`
+
+Always open to collaborating on high-impact projects, hackathons, and open-source repositories involving:
+
+- **Generative AI & Agentic Workflows** (LLMs, RAG pipelines, multimodal apps)
+- **Healthcare AI & Public-Sector Intelligence**
+- **Full-Stack Web Applications & Developer Tooling**
+- **Infrastructure Telemetry, GreenOps & AI Security**
+- **Hardware Prototyping & Embedded IoT Systems**
+
+---
+
+## `./connect`
+
+<p align="center">
+  <a href="https://codebyaryan.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-VISIT-00FF9C?style=for-the-badge&logo=vercel&logoColor=0B0F0C&labelColor=0B0F0C" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/aryan-yadav-dev01/"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-FFB703?style=for-the-badge&logo=linkedin&logoColor=0B0F0C&labelColor=0B0F0C" alt="LinkedIn" /></a>
+  <a href="https://github.com/uiaryanyadav1109-dev"><img src="https://img.shields.io/badge/GITHUB-FOLLOW-00FF9C?style=for-the-badge&logo=github&logoColor=0B0F0C&labelColor=0B0F0C" alt="GitHub" /></a>
+  <a href="https://leetcode.com/u/aryanyadav_11/"><img src="https://img.shields.io/badge/LEETCODE-PROFILE-FFB703?style=for-the-badge&logo=leetcode&logoColor=0B0F0C&labelColor=0B0F0C" alt="LeetCode" /></a>
+  <a href="mailto:uiaryanyadav1109@gmail.com"><img src="https://img.shields.io/badge/EMAIL-REACH_OUT-00FF9C?style=for-the-badge&logo=gmail&logoColor=0B0F0C&labelColor=0B0F0C" alt="Email" /></a>
+</p>
+
+<p align="center">
+  <b>IDEA → BUILD → TEST → LEARN → IMPROVE</b>
+  <br />
+  <i>Every bug is another step in the training arc.</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:00FF9C,55:0B3B2E,100:0B0F0C" width="100%" alt="Neon green GitHub footer" />
+</p>
